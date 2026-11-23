@@ -1,6 +1,10 @@
 chromadb
-google
 gradio
 ipykernel
-llama_index
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
 pandas
+python-dotenv
+requests
